@@ -9,4 +9,4 @@ Model Specifications :
 - Context_length used for predictions in self attention block: 32
 - Multi-Head Attention blocks: 16
 - Layers : 8 (decoder blocks)
-- Learning Rate: 0.002
+- Learning Rate: 0.02
